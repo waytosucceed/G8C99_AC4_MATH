@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "How many perfect squares are there between 200 and 500?",
+        "options": [
+            "8",
+            "12",
+            "13",
+            "14"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "The value of √1 + √4 + √9 + √16 + √25 equals:",
+        "options": [
+            "8",
+            "12",
+            "15",
+            "14"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "The sum of all two-digit numbers which are perfect squares is:",
+        "options": [
+            "267",
+            "257",
+            "261",
+            "271"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Let S be the sum of the first 100 natural numbers that are not perfect squares. The value of √S is:",
+        "options": [
+            "Between 80 and 85",
+            "Between 75 and 80",
+            "Between 90 and 95",
+            "Between 95 and 100"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "If a and b are positive real numbers and √a + √b = 10, √a - √b = 4, <br>then a + b equals:",
+        "options": [
+            "57",
+            "58",
+            "61",
+            "71"
+        ],
+        "correct": 1
+    }
+]
